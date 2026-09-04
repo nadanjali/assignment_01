@@ -1,4 +1,2 @@
-Write your reflection here.
+One thing I learned was figuring out to use the debugger properly in order to find errors in my code when my test were not running correctly. The parts I still struggle with are regarding figuring out the difference between what code I am trying to write and what the AI tool gives me. Specifically when I wrote the if else statements, there were times the function wanted me to program it exactly the way the auto code did instead of my code which I thought would have done the same thing. I definitely could use more practice with asking specifc questions to the chat bot the help figure out my problems and what the errors mean.
 
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from class, and make it actionable.
